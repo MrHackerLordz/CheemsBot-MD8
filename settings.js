@@ -32,7 +32,7 @@ global.location = "Precised Location" //ur location
 global.botname = "MrHãçI{ërLørd Bot MD V8"
 global.ownernumber = '2348184059232'
 global.ownername = '༒MrHãçI{ërLørd༒'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.ownerNumber = ["2348184059232@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@humblesmart951"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Br36qv7KCGK7xQyw252jNA"
@@ -47,10 +47,10 @@ global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic0.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic0.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic1.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic0.jpg") //ur thumb pic
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
 
 //menu image maker
